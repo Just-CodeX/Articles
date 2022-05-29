@@ -88,7 +88,7 @@ Comming Soon.
 
 ### Python
 
-1. [Getting Started With Python](https://github.com/Just-CodeX/Getting-Started-With-Python)
+1. [Getting Started With Python](https://just-codex.github.io/Getting-Started-With-Python/)
 
 ### R
 
