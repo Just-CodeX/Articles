@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    
+    
+    
+    <link>https://Just-CodeX.github.io/Articles/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©CodeX</copyright>
+    
+	<atom:link href="https://Just-CodeX.github.io/Articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Articles</title>
+      <link>https://Just-CodeX.github.io/Articles/</link>
+      <pubDate>Sun, 29 May 2022 13:35:57 +0530</pubDate>
+      
+      <guid>https://Just-CodeX.github.io/Articles/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          On this page you will find all the pages related to each programming language.
+  Programming Languages
+  C#
+  C++
+  Delphi
+  Golang (Go)
+  Groovy
+  Haskell
+  Java
+  JavaScript
+  Kotlin
+  Lua
+  MATLAB
+  Perl
+  PHP
+  PowerShell
+  Python
+  R
+  Ruby
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
